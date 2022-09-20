@@ -1,4 +1,4 @@
-package me.java.variables;
+package me.j220919.variables;
 
 public class practice3 {
     public static void main(String[] args) {

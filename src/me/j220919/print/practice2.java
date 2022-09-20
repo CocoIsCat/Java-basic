@@ -1,4 +1,4 @@
-package me.java.print;
+package me.j220919.print;
 
 public class practice2 {
     public static void main(String[] args) {
